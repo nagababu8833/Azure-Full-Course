@@ -47,3 +47,10 @@ la -la
 ```
 
 
+nginx file Location:
+
+```
+cd /var/www/
+ll
+```
+
