@@ -1,8 +1,4 @@
 # Azure-class-1
-#install tools in Linux Server
-```
-apt update && apt install -y net-tools jq stress nginx python3-pip
-```
 
 ### #find the disk utilization
 ```
@@ -45,7 +41,10 @@ free
 ```
 la -la 
 ```
-
+# install tools in Linux Server
+```
+apt update && apt install -y net-tools jq stress nginx python3-pip
+```
 
 # nginx file Location:
 
