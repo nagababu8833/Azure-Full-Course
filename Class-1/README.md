@@ -21,20 +21,6 @@ which df
 
 ### find The `who` command in Unix-like systems is used to display a list of users currently logged into the system.
 
-Running the command will show something like this:
-
-```bash
-user1   tty7         2024-10-03 09:15 (:0)
-user2   pts/1        2024-10-03 10:30 (192.168.1.5)
-```
-
-Here’s what each column represents:
-1. **Username**: The name of the logged-in user.
-2. **Terminal**: The terminal (tty or pts) the user is using.
-3. **Login Time**: The time when the user logged in.
-4. **Remote Host**: If the user is logged in remotely, it shows the remote IP or hostname.
-
-It helps system administrators see who is logged into the machine. Let me know if you'd like further details!
 ```
 who
 ```
