@@ -66,3 +66,8 @@ rm -rf html
 ```
 git clone -b  DevSecOpsB42 https://github.com/mavrick202/dockertest1.git
 ```
+
+# Azure version check
+```
+az --version
+```
