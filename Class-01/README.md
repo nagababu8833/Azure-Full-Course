@@ -47,7 +47,7 @@ la -la
 ```
 
 
-nginx file Location:
+# nginx file Location:
 
 ```
 cd /var/www/html
