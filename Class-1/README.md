@@ -17,7 +17,7 @@ which df
 ```
 who
 ```
-### find the linux os details
+### find the used to display system information.
 ```
 uname -a
 ```
@@ -27,11 +27,14 @@ uname -a
 free
 ```
 
-### find the full details
+### use the command ls -la.
+
+ls: Lists files and directories.
+-l: Lists in long format (detailed view, including permissions, owner, size, etc.).
+-a: Lists all files, including hidden ones (files starting with a dot .).
+
 ```
 la -la 
 ```
 
-```
-ll 
-```
+
