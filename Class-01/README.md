@@ -74,3 +74,6 @@ https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-linux?pivots=apt
 ```
 az --version
 ```
+
+
+# after complete class Delete azure Resource group
