@@ -30,7 +30,9 @@ free
 ### use the command ls -la.
 
 ls: Lists files and directories.
+
 -l: Lists in long format (detailed view, including permissions, owner, size, etc.).
+
 -a: Lists all files, including hidden ones (files starting with a dot .).
 
 ```
