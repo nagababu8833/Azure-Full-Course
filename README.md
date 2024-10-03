@@ -1,5 +1,2 @@
-# Azure-class-1
+# Azure-classes
 
-```
-apt install && apt install -y net-tools jq stress nginx python3-pip
-```
