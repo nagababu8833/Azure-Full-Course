@@ -57,3 +57,12 @@ ll
 nano index.nginx-debian.html
 ```
 . change content after open that file.
+
+```
+rm -rf html
+```
+
+
+```
+git clone https://github.com/mavrick202/dockertest1.git
+```
