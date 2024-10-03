@@ -66,6 +66,9 @@ rm -rf html
 ```
 git clone -b  DevSecOpsB42 https://github.com/mavrick202/dockertest1.git
 ```
+# install Azure cli in linux
+
+https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-linux?pivots=apt
 
 # Azure version check
 ```
