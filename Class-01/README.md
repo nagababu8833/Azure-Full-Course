@@ -64,5 +64,5 @@ rm -rf html
 
 
 ```
-git clone https://github.com/mavrick202/dockertest1.git
+git clone -b  DevSecOpsB42 https://github.com/mavrick202/dockertest1.git
 ```
