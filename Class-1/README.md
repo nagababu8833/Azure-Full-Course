@@ -1,10 +1,10 @@
 # Azure-class-1
-### install tools
+### #install tools
 ```
 apt update && apt install -y net-tools jq stress nginx python3-pip
 ```
 
-### find the disk utilization
+### #find the disk utilization
 ```
 df -h 
 ```
