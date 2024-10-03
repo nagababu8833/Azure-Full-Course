@@ -50,7 +50,11 @@ la -la
 nginx file Location:
 
 ```
-cd /var/www/
+cd /var/www/html
 ll
 ```
 
+```
+nano index.nginx-debian.html
+```
+. change content after open that file.
