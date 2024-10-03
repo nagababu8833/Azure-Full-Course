@@ -29,7 +29,7 @@ free
 
 ### use the command ls -la.
 
-ls: Lists files and directories.
+ ls: Lists files and directories.
 
 -l: Lists in long format (detailed view, including permissions, owner, size, etc.).
 
